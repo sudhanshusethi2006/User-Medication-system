@@ -1,0 +1,114 @@
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\UserMedication.exe
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\UserMedication.deps.json
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\UserMedication.runtimeconfig.json
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\UserMedication.runtimeconfig.dev.json
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\UserMedication.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\UserMedication.pdb
+C:\Users\sudha\source\repos\UserMedication\obj\Debug\netcoreapp3.1\UserMedication.csprojAssemblyReference.cache
+C:\Users\sudha\source\repos\UserMedication\obj\Debug\netcoreapp3.1\UserMedication.AssemblyInfoInputs.cache
+C:\Users\sudha\source\repos\UserMedication\obj\Debug\netcoreapp3.1\UserMedication.AssemblyInfo.cs
+C:\Users\sudha\source\repos\UserMedication\obj\Debug\netcoreapp3.1\UserMedication.dll
+C:\Users\sudha\source\repos\UserMedication\obj\Debug\netcoreapp3.1\UserMedication.pdb
+C:\Users\sudha\source\repos\UserMedication\obj\Debug\netcoreapp3.1\UserMedication.genruntimeconfig.cache
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sudha\source\repos\UserMedication\obj\Debug\netcoreapp3.1\UserMedication.csproj.CopyComplete
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sudha\source\repos\UserMedication\obj\Debug\netcoreapp3.1\UserMedication.csproj.CoreCompileInputs.cache
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sudha\source\repos\UserMedication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\UserMedication.exe
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\UserMedication.deps.json
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\UserMedication.runtimeconfig.json
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\UserMedication.runtimeconfig.dev.json
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\UserMedication.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\UserMedication.pdb
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\obj\Debug\netcoreapp3.1\UserMedication.csprojAssemblyReference.cache
+C:\Users\sudha\Desktop\Klick test\UserMedication\obj\Debug\netcoreapp3.1\UserMedication.AssemblyInfoInputs.cache
+C:\Users\sudha\Desktop\Klick test\UserMedication\obj\Debug\netcoreapp3.1\UserMedication.AssemblyInfo.cs
+C:\Users\sudha\Desktop\Klick test\UserMedication\obj\Debug\netcoreapp3.1\UserMedication.csproj.CoreCompileInputs.cache
+C:\Users\sudha\Desktop\Klick test\UserMedication\obj\Debug\netcoreapp3.1\UserMedication.csproj.CopyComplete
+C:\Users\sudha\Desktop\Klick test\UserMedication\obj\Debug\netcoreapp3.1\UserMedication.dll
+C:\Users\sudha\Desktop\Klick test\UserMedication\obj\Debug\netcoreapp3.1\UserMedication.pdb
+C:\Users\sudha\Desktop\Klick test\UserMedication\obj\Debug\netcoreapp3.1\UserMedication.genruntimeconfig.cache
